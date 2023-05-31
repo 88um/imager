@@ -1,4 +1,4 @@
-#AI Image Generator
+##AI Image Generator
 
 Node + Express, Level 1 
 
